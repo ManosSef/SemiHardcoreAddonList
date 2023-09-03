@@ -3,5 +3,10 @@
     "name": "SemiHardcoreLifeColors",
     "resource_id": 109421,
     "resource_web_name": "semihardcorelifecolors"
+  },
+  {
+    "name": "SemiHardcoreArmorTrims",
+    "resource_id": 112458,
+    "resource_web_name": "semihardcorearmortrims"
   }
 ]
