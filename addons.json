@@ -8,5 +8,10 @@
     "name": "SemiHardcoreArmorTrims",
     "resource_id": 112458,
     "resource_web_name": "semihardcorearmortrims"
+  },
+  {
+    "name": "SemiHardcore3rdLifeFeatures",
+    "resource_id": 113215,
+    "resource_web_name": "semihardcore3rdlifefeatures"
   }
 ]
